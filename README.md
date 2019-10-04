@@ -1,6 +1,6 @@
 # lego-Predict-the-theme-lego-kind-
 classification project: Predict lego theme based on lego data dataset
-\n
+
 This is a classification project:  I tried to predict the theme of Lego sets based on the parts, colors and year and some more features.
 
 When I find the Lego database on re-brick-able, It sparkled my imagination and I wanted to do an ML project based on that database.
